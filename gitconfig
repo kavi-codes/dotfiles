@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = kaviya.dhpl@gmail.com
+	name = Kaviya Dhanapal
